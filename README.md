@@ -450,7 +450,7 @@
     <header class="main-header">
         <div class="container">
             <div class="logo">
-                <img src="https://drive.google.com/file/d/1ex88nfhT4QZI9bWxSavTj2q18bdeYh5P/view?usp=drive_link" alt="Sundar Sewa Logo">
+                <img src="https://github.com/sundarsewa/homepage/blob/b4146d070bcae57be8839e4d60b52604e6f24510/ssss.png" alt="Sundar Sewa Logo">
                 <div class="logo-text">
                     <h1><span>Sundar</span> Sewa</h1>
                 </div>
