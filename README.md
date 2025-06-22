@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -450,7 +450,7 @@
     <header class="main-header">
         <div class="container">
             <div class="logo">
-                <img src="https://via.placeholder.com/50" alt="Sundar Sewa Logo">
+                <img src="https://drive.google.com/file/d/1ex88nfhT4QZI9bWxSavTj2q18bdeYh5P/view?usp=drive_link" alt="Sundar Sewa Logo">
                 <div class="logo-text">
                     <h1><span>Sundar</span> Sewa</h1>
                 </div>
